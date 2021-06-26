@@ -19,6 +19,9 @@ Naturally, you will be prompted for the previously set password."""
 # pip3 install --upgrade pip
 # sudo apt-get install python3.7-dev python3.7-venv
 
+# to copy files between VM and local
+# scp -P 14620 root@4.tcp.ngrok.io:/root/ee/repo/netherlands_dsms.zip ./
+
 
 # Connecting with VS Code in browser
 # Now, let’s download, install and run the server version of Visual Studio Code.
