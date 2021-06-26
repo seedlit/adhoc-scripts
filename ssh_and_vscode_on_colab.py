@@ -16,6 +16,8 @@ Naturally, you will be prompted for the previously set password."""
 
 # After connection with VM, you can install your preferred utilities
 # sudo apt install htop
+# pip3 install --upgrade pip
+# sudo apt-get install python3.7-dev python3.7-venv
 
 
 # Connecting with VS Code in browser
