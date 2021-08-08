@@ -33,6 +33,8 @@ ssh -L 9999:localhost:9999 root@0.tcp.ngrok.io -p 14407
 # open http://127.0.0.1:9999/ in browser
 
 
+# to install conda - https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-20-04
+# getting started with conda - https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
 
 
